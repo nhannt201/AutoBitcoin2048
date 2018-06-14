@@ -1,0 +1,11 @@
+E:\Bitcoin2048 Auto\Bitcoin2048 Auto\bin\Debug\Bitcoin2048 Auto.exe.config
+E:\Bitcoin2048 Auto\Bitcoin2048 Auto\bin\Debug\Bitcoin2048 Auto.exe
+E:\Bitcoin2048 Auto\Bitcoin2048 Auto\bin\Debug\Bitcoin2048 Auto.pdb
+E:\Bitcoin2048 Auto\Bitcoin2048 Auto\bin\Debug\Bitcoin2048 Auto.xml
+E:\Bitcoin2048 Auto\Bitcoin2048 Auto\obj\Debug\Bitcoin2048_Auto.Form1.resources
+E:\Bitcoin2048 Auto\Bitcoin2048 Auto\obj\Debug\Bitcoin2048_Auto.Resources.resources
+E:\Bitcoin2048 Auto\Bitcoin2048 Auto\obj\Debug\Bitcoin2048 Auto.vbproj.GenerateResource.Cache
+E:\Bitcoin2048 Auto\Bitcoin2048 Auto\obj\Debug\Bitcoin2048 Auto.exe
+E:\Bitcoin2048 Auto\Bitcoin2048 Auto\obj\Debug\Bitcoin2048 Auto.xml
+E:\Bitcoin2048 Auto\Bitcoin2048 Auto\obj\Debug\Bitcoin2048 Auto.pdb
+E:\Bitcoin2048 Auto\Bitcoin2048 Auto\obj\Debug\Bitcoin2048 Auto.vbprojResolveAssemblyReference.cache
